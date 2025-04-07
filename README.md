@@ -1,2 +1,2 @@
 # SistemaCalculoFrete
- Sistema desenvolvido em Java para calcular fretes
+ Sistema desenvolvido em Java para calcular fretes.
